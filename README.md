@@ -8,6 +8,8 @@ Ventura 13.3
 
 Apple Musicにある"ゲットアップ！ミックス"プレイリストを再生するツールです．
 
+```alarmTool.zsh```の```hogehoge```をgetUpRemixディレクトリの絶対パスに変更してください．
+
 スクリプトの実行履歴は```alarmTool.log```に追記されます．
 
 ## 注意
